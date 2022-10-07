@@ -10,6 +10,7 @@ atomic
 auto
 await
 bitand
+bitboard
 bitor
 bool
 break
@@ -58,6 +59,7 @@ function
 get
 goto
 hide
+hwnd
 if
 implements
 import
@@ -68,7 +70,11 @@ late
 library
 local
 long
+lparam
+luid
+microsoft
 mixin
+mtdf
 mutable
 namespace
 new
